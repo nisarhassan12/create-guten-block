@@ -1,0 +1,2 @@
+tasks:
+  - init: yarn && yarn create-guten-block demo-block  && cd demo && yarn start
